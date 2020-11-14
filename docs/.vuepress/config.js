@@ -41,6 +41,8 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             '/formations/',
+            '/kalif/',
+
           ]
         }
       ,
