@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'EATIS',
+  title: 'Documentation EATIS',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -27,6 +27,8 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    
+    logo: '/Logo-Eatis.svg',
     repo: '',
     editLinks: false,
     docsDir: '',
@@ -38,11 +40,13 @@ module.exports = {
         {
           title: 'Formations',
           collapsable: true,
-          sidebarDepth: 2,
           children: [
-            '/formations/',
-            '/kalif/',
-
+            '/licences_pilotes/',
+            '/qualifications_pilotes/',
+            '/stages_instructeurs/',
+            '/formations_theoriques/',
+            '/formations_complementaires/',
+            
           ]
         }
       ,
@@ -50,12 +54,13 @@ module.exports = {
           title: 'Vol decouverte',
           collapsable: true,
           children: [
-            '/vol_decouverte/',
+            '/vol_initiation/',
+            '/vol_initiation_voltige/',
           ]
         }
       ,
         {
-          title: 'Aviation d affaire',
+          title: "Aviation d'affaire",
           collapsable: true,
           children: [
             '/aviation_daffaire/',
@@ -72,5 +77,6 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/active-header-links',
+    'vuepress-plugin-smooth-scroll',
   ]
 }
