@@ -1,6 +1,6 @@
 ---
-home: true
-heroImage: /Logo-Eatis-black.png
+home: false
+heroImage: /Logo-Eatis.svg
 tagline: 
 actionText: Découvrir notre documentation →
 actionLink: /licences_pilotes/
