@@ -1,5 +1,5 @@
 # Formations complementaires
 
-## - Stage PBN
+##  Stage PBN
 
-## - Conversion Licence
+##  Conversion Licence
