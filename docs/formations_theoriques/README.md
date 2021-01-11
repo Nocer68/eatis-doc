@@ -17,17 +17,17 @@ La durée de préparation d’un ATPL sur site est de 9 mois (à partir de votre
 Date de rentrée en formation : 2 rentrées /an – Nous consulter
 
 ### Description de la formation à distance
-> Stage initial de 14 jours de théorie
-> Parcours pédagogique et assistance sur plateforme Internet.
-> Réalisation de devoirs et examens blancs (envoi et correction par Internet).
-> Entrainement aux QCM en reproduisant les conditions de l’examen théorique.
-> Date de rentrée en formation : 4 rentrées /an – Nous consulter
+- Stage initial de 14 jours de théorie
+- Parcours pédagogique et assistance sur plateforme Internet.
+- Réalisation de devoirs et examens blancs (envoi et correction par Internet).
+- Entrainement aux QCM en reproduisant les conditions de l’examen théorique.
+- Date de rentrée en formation : 4 rentrées /an – Nous consulter
 
 ::: tip Conditions d’accès :
-> Satisfaire à l’évaluation théorique pour les stagiaires non titulaires d’un baccalauréat scientifique.
-> Age minimum 18 ans
-> Être détenteur du certificat d’aptitude physique navigant professionnel Classe 1
-> Et en conclusion, être titulaire de la licence PPL
+- Satisfaire à l’évaluation théorique pour les stagiaires non titulaires d’un baccalauréat scientifique.
+- Age minimum 18 ans
+- Être détenteur du certificat d’aptitude physique navigant professionnel Classe 1
+- Et en conclusion, être titulaire de la licence PPL
 :::
 
 ##  CPL

@@ -125,37 +125,7 @@ Détenir :
 Par ailleurs l’examen final se traduit par une épreuve pratique, conduite par un examinateur habilité. L’épreuve pratique se divise en cinq ou six sections. En outre, en cas d’échec à l’une de ces sections, il est possible de repasser cette dernière au cours des 6 mois suivants ; en revanche, plus d’un échec conduit automatiquement à repasser l’examen intégralement. Enfin, une fois admis, le candidat reçoit une attestation provisoire valable pendant deux mois.
 
 
-##  QT PHENOM 100-300 SPO/MPO
 
-
-### Programme de la formation :
-
-#### Formation théorique se décomposant sur 49heures :
-
-- 38 heures de cours théoriques
-- 6 heures de formations statiques
-- 3 heures de formations sur l’utilisation G1000-G3000/FMS
-- 2 heures de QCM qui permettent de valider les cours théoriques
-
-#### Formation pratique :
-
-- 3 heures de FSTD (ALX FR3108
-- 13h de vol sur Phenom 100
-- 32 briefing et debriefing
-
-Durée de la formation : 3 semaines
-
-::: tip Conditions d’accès :
-
-
-- Avoir effectué au moins 200 heures d’expérience totale en vol, dont 70 heures en tant que PIC sur avions
-- Être titulaires d’un certificat attestant qu’ils ont suivi de manière satisfaisante un cours théorique additionnel auprès d’un ATO ou avoir réussi les examens théoriques de l’ATPL(A) ou en plus d’une licence, être titulaires d’une ATPL(A) ou d’une CPL(A)/IR avec un crédit de connaissances théoriques pour l’ATPL(A)
-- Être titulaire d’un IRME en cours de validité
-- Avoir le certificat médical Classe 1 et 2
-
-:::
-
-![](../assets/img/phenom_1-1.jpg)
 ##  Qt HONDA 420 SPO/MPO
 
 
