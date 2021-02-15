@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    
+
     logo: '/Logo-Eatis.svg',
     repo: '',
     editLinks: false,
@@ -35,37 +35,39 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     displayAllHeaders: true,
-    nav: [],
+    nav: [
+      { text: 'External', link: 'https://eatis.netlify.app/' }
+    ],
     sidebar: [
-        {
-          title: 'Formations',
-          collapsable: true,
-          children: [
-            '/licences_pilotes/',
-            '/qualifications_pilotes/',
-            '/stages_instructeurs/',
-            '/formations_theoriques/',
-            '/formations_complementaires/',
-            
-          ]
-        }
+      {
+        title: 'Formations',
+        collapsable: true,
+        children: [
+          '/licences_pilotes/',
+          '/qualifications_pilotes/',
+          '/stages_instructeurs/',
+          '/formations_theoriques/',
+          '/formations_complementaires/',
+
+        ]
+      }
       ,
-        {
-          title: 'Vol decouverte',
-          collapsable: true,
-          children: [
-            '/vol_initiation/',
-            '/vol_initiation_voltige/',
-          ]
-        }
+      {
+        title: 'Vol decouverte',
+        collapsable: true,
+        children: [
+          '/vol_initiation/',
+          '/vol_initiation_voltige/',
+        ]
+      }
       ,
-        {
-          title: "Aviation d'affaire",
-          collapsable: true,
-          children: [
-            '/aviation_daffaire/',
-          ]
-        }
+      {
+        title: "Aviation d'affaire",
+        collapsable: true,
+        children: [
+          '/aviation_daffaire/',
+        ]
+      }
       ,
     ]
   },
