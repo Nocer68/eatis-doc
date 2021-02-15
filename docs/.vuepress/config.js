@@ -36,7 +36,7 @@ module.exports = {
     lastUpdated: false,
     displayAllHeaders: true,
     nav: [
-      { text: 'External', link: 'https://eatis.netlify.app/' }
+      { text: 'home', link: 'https://eatis.netlify.app/' }
     ],
     sidebar: [
       {
